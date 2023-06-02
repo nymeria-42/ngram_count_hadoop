@@ -1,7 +1,7 @@
 # ngram_count_hadoop
 Code to get n-gram count of text files with Hadoop MapReduce
 
-Compiled using NetBeans IDE.
+Compiled using NetBeans IDE and JDK-1.8.
 
 ## Usage
 `hadoop jar target/NgramCount-1.0-SNAPSHOT.jar br.com.ggvd.ngramcount.NgramCount <ngram> <minCount> <inputDirectory> <outputDirectory>`
